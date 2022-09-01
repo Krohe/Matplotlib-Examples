@@ -1,2 +1,2 @@
 # Matplotlib-Examples
-Figures (atm only) from PhD Thesis introduction chapter. Figures are shared directly in pdf format, as well as their python source code (as interactive Jupyter notebooks) using matplotlib.
+Figures from my PhD Thesis introduction chapter and (https://doi.org/10.1063/5.0086239). Figures are shared either directly in pdf format, and/or in a Jupyter notebook containing its source code.
